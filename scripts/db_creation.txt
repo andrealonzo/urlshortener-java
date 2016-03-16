@@ -10,7 +10,4 @@ CREATE TABLE public."Url"
 WITH (
   OIDS=FALSE
 );
-ALTER TABLE public."Url"
-  OWNER TO postgres;
-
   

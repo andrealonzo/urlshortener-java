@@ -19,6 +19,11 @@ Run the following command to build the project
 Set the DATABASE_URL environment variable.  The format should be similar to this 
 
     postgres://<db_username>:<db_password>@localhost:5432/testdb
+    
+    
+Set the BING_ACCOUNT_KEY environment variable.  You can sign up for an account key here:  
+
+	https://datamarket.azure.com/dataset/bing/search
 
 Run the database creation script found in 
 
